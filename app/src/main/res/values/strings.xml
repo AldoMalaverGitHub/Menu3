@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Menu3</string>
+    <string name="entrada">Entrada</string>
+    <string name="fondo">Plato de Fondo</string>
+    <string name="entrada1">Sopa</string>
+    <string name="entrada2">Ocopa</string>
+    <string name="entrada3">Ensalada</string>
+    <string name="fondo1">Aji de Gallina</string>
+    <string name="fondo2">Arroz con Pollo</string>
+    <string name="fondo3">Chaufa</string>
+    <string name="order">Ordenar</string>
+</resources>
